@@ -2,19 +2,11 @@
 
 ---
 ### Education
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-### Work Experience
-
-
+B.A. Earth Science -- James Madison University 2020
+M.S. Oceanography Student -- University of Rhode Island 
 ---
 ### Recent Projects
-
-
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+Rhode Island South Shore Survey Assistant June 2020-present
 
 ---
 
